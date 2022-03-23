@@ -3,8 +3,8 @@
 
 pi = 3.1415927
 
-print("Hi, I want to compute some things!")
-circle_radius = input("Please, write here circle radius as float number:")
+print("Witam, lubie dobre pierożki")
+circle_radius = input("Proszę o zrobienie mi pierożków")
 
 # zwracamy uwagę na ten moment !
 circle_radius = float(circle_radius)
